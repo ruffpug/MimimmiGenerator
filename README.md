@@ -8,3 +8,5 @@ https://ruffpug.github.io/MimimmiGenerator/
 ![Kotlin](https://img.shields.io/static/v1?label=language&message=Kotlin&color=orange)
 
 ミミッミのセリフを考えよう!
+
+![](image.png)
